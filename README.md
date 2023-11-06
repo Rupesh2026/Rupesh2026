@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spark, Airflow, DBT**
 
-- 👯 I’m building a startup [a startup that helps International students find rental homes in new countries](https://www.gamyam.io/)
+- 👯 I’m building a startup [ that helps International students find rental homes in new countries](https://www.gamyam.io/)
 
 - 🤝 I’m looking for help with **Data and product roles**
 
