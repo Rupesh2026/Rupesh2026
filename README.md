@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/rupesh lankipalli" target="blank"><img src="https://img.shields.io/twitter/follow/rupesh lankipalli?logo=twitter&style=for-the-badge" alt="rupesh lankipalli" /></a> </p>
 
-- 🔭 I’m currently working on **Data projects**
+- 🔭 I’m currently working on **Data and AI projects**
 
-- 🌱 I’m currently learning **Spark, Airflow, DBT**
+- 🌱 I’m currently learning about ** AI Agents, DBT**
 
-- 👯 I’m building a startup [ that helps International students find rental homes in new countries](https://www.gamyam.io/)
+- 👯 Built a startup [ that helps International students find roommates and rental homes in new countries](https://www.gamyam.io/)
 
-- 🤝 I’m looking for help with **Data and product roles**
-
-- 👨‍💻 All of my Portfolio bio is available at [https://www.notion.so/Rupesh-Lankipalli-7a602a873e4345319c93ccb2b0d47313?pvs=4](https://www.notion.so/Rupesh-Lankipalli-7a602a873e4345319c93ccb2b0d47313?pvs=4)
+- 👨‍💻 All of my Portfolio bio is available at (https://quark-acrylic-4a8.notion.site/4fbbb17aab674fcd91297f6f448f55b4?v=43301b1b10ea4b9cabbd1650e9efe13b)
 
 - 📝 I regularly write articles on Startups, Product, Data, Growth [https://substack.com/@rupeshlankipalli](https://substack.com/@rupeshlankipalli)
 
