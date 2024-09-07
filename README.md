@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Rupesh Lankipalli</h1>
-<h3 align="center">" Data Engineer || Startup Founder || Product guy || Built open marketplace startups with one successful exit.</h3>
+<h3 align="center">" Startup Founder || Product guy || Data Engineer/Analyst || Built two open marketplace startups with one successful exit.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh2026&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh2026" /> </p>
