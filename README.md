@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **rupeshlankipalli@gmail.com**
 
-- ⚡ Fun fact **I am going to list my startup on Nasdaq one day**
+- ⚡ Fun fact **My startup will be listed on Nasdaq one day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
