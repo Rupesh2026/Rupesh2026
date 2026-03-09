@@ -1,6 +1,6 @@
 
-<h1 align="center">Hey 👋, I'm Rupesh Lankipalli</h1>
-<h3 align="center">" Data product Manager, building AI tools|| 3× marketplace startup Founder — one exit and two ventures sunset after market shifts and competition dynamics.</h3>
+<h1 align="center">Hey, I'm Rupesh Lankipalli</h1>
+<h3 align="center">Data product Manager, building AI tools|| 3× marketplace startup Founder — one exit and two ventures sunset after market shifts and competition dynamics.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh2026&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh2026" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ** building AI tools that PMs can reuse to convert ideas into structured, executable projects.**
 
-- 🌱 I’m currently learning about ** AI Agents, DBT**
+- 🌱 I’m currently learning about ** AI Agents**
 
 - 👯 Built a startup [ that helps International students find roommates and rental homes in new countries](https://www.gamyam.io/)
 
@@ -21,7 +21,6 @@
 
 - 📫 How to reach me **rupeshlankipalli@gmail.com**
 
-- ⚡ Fun fact **My startup will be listed on Nasdaq one day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
