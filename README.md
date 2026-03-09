@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rupesh lankipalli" target="blank"><img src="https://img.shields.io/twitter/follow/rupesh lankipalli?logo=twitter&style=for-the-badge" alt="rupesh lankipalli" /></a> </p>
 
-- 🔭 I’m currently working on ** building AI tools that PMs can reuse to convert ideas into structured, executable projects.**
+- 🔭 I’m currently working on building AI tools that PMs can reuse to convert ideas into structured, executable projects.
 
-- 🌱 I’m currently learning about ** AI Agents**
+- 🌱 I’m currently learning about AI Agents
 
 - 👯 Built a startup [ that helps International students find roommates and rental homes in new countries](https://www.gamyam.io/)
 
