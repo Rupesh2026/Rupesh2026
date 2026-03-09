@@ -1,13 +1,13 @@
 
 <h1 align="center">Hey 👋, I'm Rupesh Lankipalli</h1>
-<h3 align="center">" Startup Founder || Product guy || Data Engineer/Analyst || Built two open marketplace startups with one successful exit.</h3>
+<h3 align="center">" Data product Manager, building AI tools|| 3× marketplace startup Founder — one exit and two ventures sunset after market shifts and competition dynamics.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh2026&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh2026" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rupesh lankipalli" target="blank"><img src="https://img.shields.io/twitter/follow/rupesh lankipalli?logo=twitter&style=for-the-badge" alt="rupesh lankipalli" /></a> </p>
 
-- 🔭 I’m currently working on **Data and AI projects**
+- 🔭 I’m currently working on ** building AI tools that PMs can reuse to convert ideas into structured, executable projects.**
 
 - 🌱 I’m currently learning about ** AI Agents, DBT**
 
