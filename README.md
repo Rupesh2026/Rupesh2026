@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey, I'm Rupesh Lankipalli</h1>
-<h3 align="center">Data product Manager, building AI tools|| 3× marketplace startup Founder — one exit and two ventures sunset after market shifts and competition dynamics.</h3>
+<h3 align="center">Data product Manager, building AI tools || 3× marketplace startup Founder </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh2026&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh2026" /> </p>
