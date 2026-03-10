@@ -5,21 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh2026&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh2026" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rupesh lankipalli" target="blank"><img src="https://img.shields.io/twitter/follow/rupesh lankipalli?logo=twitter&style=for-the-badge" alt="rupesh lankipalli" /></a> </p>
-
 - 🔭 I’m currently working on building AI tools that PMs can reuse to convert ideas into structured, executable projects.
 
 - 🌱 I’m currently learning about AI Agents
 
 - 👯 Built a startup [ that helps International students find roommates and rental homes in new countries](https://www.gamyam.io/)
 
-- 👨‍💻 All of my Portfolio bio is available at (https://quark-acrylic-4a8.notion.site/4fbbb17aab674fcd91297f6f448f55b4?v=43301b1b10ea4b9cabbd1650e9efe13b)
+- 📝 I write articles on AI, Data Product Management [https://substack.com/@rupeshlankipalli](https://substack.com/@rupeshlankipalli)
 
-- 📝 I regularly write articles on Startups, Product, Data, Growth [https://substack.com/@rupeshlankipalli](https://substack.com/@rupeshlankipalli)
-
-- 💬 Ask me about **Startups, Data driven solutions**
-
-- 📫 How to reach me **rupeshlankipalli@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
