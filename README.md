@@ -1,13 +1,13 @@
 
 <h1 align="center">Hey, I'm Rupesh Lankipalli</h1>
-<h3 align="center">Data product Manager, building AI tools | 3× marketplace startup Founder </h3>
+<h3 align="center"> AI Engineer | Software Builder | Product Manager | 3× marketplace startup Founder </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh2026&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh2026" /> </p>
 
-- 🔭 I’m currently working on building AI tools that PMs can reuse to convert ideas into structured, executable projects.
+- 🔭 I’m currently working on building AI tools that Engineers and PMs can reuse to convert ideas into structured, executable projects.
 
-- 🌱 I’m currently learning about AI Agents
+- 🌱 Building Reliable AI Agents
 
 - 👯 Built a startup [ that helps International students find roommates and rental homes in new countries](https://www.gamyam.io/)
 
