@@ -5,13 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh2026&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh2026" /> </p>
 
-- 🔭 I’m currently working on building AI tools that Engineers and PMs can reuse to convert ideas into structured, executable projects.
 
-- 🌱 Building Reliable AI Agents
+🚀 Building AI products that transform frontier model capabilities into reliable, measurable, and impactful user experiences.
 
-- 👯 Built a startup [ that helps International students find roommates and rental homes in new countries](https://www.gamyam.io/)
+🌱 Skilled in designing production-grade AI systems powered by LLMs, retrieval architectures, fine-tuning, evaluation frameworks, observability, and human feedback loops.
 
-- 📝 I write articles on AI, Data Product Management [https://substack.com/@rupeshlankipalli](https://substack.com/@rupeshlankipalli)
+📈 Focused on AI product strategy, model quality, experimentation, safety, reliability, and the metrics that drive real-world adoption and business outcomes.
+
+
+👯 Built a startup [ that helps International students find roommates and rental homes in new countries](https://www.gamyam.io/)
+
+📝 I write articles on AI, Data Product Management [https://substack.com/@rupeshlankipalli](https://substack.com/@rupeshlankipalli)
+
+
 
 <h3 align="left">Languages & Tools</h3>
 
@@ -61,27 +67,20 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28"/>
 </td>
 
-<td align="center">
-<b>DevOps</b><br>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="28"/>
-</td>
-
 </tr>
 </table>
 
 <br>
 
-<h3 align="left">Product Management</h3>
+<h3 align="left">AI Product Management</h3>
 
 <p>
-Product Strategy • Roadmapping • 0→1 Products • AI Product Design • RAG Systems • Experimentation • Metrics • Stakeholder Management
+AI Product Strategy • 0→1 Product Development • Agentic AI Systems • RAG Architecture • Prompt Engineering • Fine-Tuning • Evaluation Frameworks • AI Safety & Guardrails • Product Analytics • Experimentation • Stakeholder Management
 </p>
 
 
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupesh2026&show_icons=true&locale=en&layout=compact" alt="rupesh2026" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh2026&" alt="rupesh2026" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupesh2026&show_icons=true&locale=en&layout=compact" alt="rupesh2026" />
+</p>
